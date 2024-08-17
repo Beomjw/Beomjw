@@ -4,6 +4,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beomjw)](https://github.com/anuraghazra/github-readme-stats)
 
+## 백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdbgo4184)](https://solved.ac/백준아이디/)
+
 ## 깃 사용 설명 블로그
 [![깃허브 이미지](https://github.com/user-attachments/assets/f961b0ae-fe27-4210-9947-1b854d06b396)](https://blog.naver.com/beomjongwon/223361128787)
 ### 지옥에서 온 관리자 깃
